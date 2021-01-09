@@ -14,8 +14,12 @@
     "react": "^16.14.0",
     "react-bootstrap": "^1.4.0",
     "react-dom": "^16.14.0",
+    "react-icons": "^4.1.0",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.3",
-    "react-use": "^15.3.6"
+    "react-use": "^15.3.6",
+    "sass": "1.32.2",
+    "styled-components": "^5.2.1"
   },
   "scripts": {
     "start": "react-scripts start",
